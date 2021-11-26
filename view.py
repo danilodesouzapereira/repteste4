@@ -6,3 +6,6 @@ def func1:
 def func2:
     c = 200
     d = 300
+    
+def func4:
+    f = 0
